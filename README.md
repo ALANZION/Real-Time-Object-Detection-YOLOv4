@@ -27,7 +27,7 @@ The detected objects are displayed with **bounding boxes, labels, and confidence
 - COCO Dataset
 
 ## Project Structure
-
+```
 
 YOLOv4-Webcam-Object-Detection
 │
