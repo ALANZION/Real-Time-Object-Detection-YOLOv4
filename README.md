@@ -77,3 +77,7 @@ Robotics vision
 Autonomous vehicles
 
 Smart retail analytics
+
+### Conclusion
+
+This project demonstrates how YOLOv4 and OpenCV can be used for real-time object detection. It provides a simple implementation for detecting multiple objects from a live webcam stream using deep learning.
